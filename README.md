@@ -5,6 +5,7 @@ To Chat:
 - Server is for local wifi (have to play on the same wifi)
 - Download all of the flies and leave the project a star
 - If you have not downloaded modules like Tkinter or vader than there will be an automatic installation when the sript will be run
-- If that doesn't work, go to your terminal or command promt and type - pip install 'module name you don't have'
+- If that doesn't work, go to your terminal or command promt and type - 
+```pip install 'module name you don't have'```
 
 Happy chatting!

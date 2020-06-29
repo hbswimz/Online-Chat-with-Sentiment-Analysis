@@ -185,4 +185,3 @@ client_socket.connect(ADDR)
 
 receive_thread = Thread()
 receive_thread.start()
-root.mainloop()

@@ -1,0 +1,2 @@
+# Online-Chat-with-Sentiment-Analysis
+This is an online chat made with Tkinter, sockets, and threading. This will be a normal chat with your friends on the server but in the background, each message will be given a sentiment value. If the value is on a varying level of negativity, a warning will be shown, preventing cyber bullying. Also, at the end of the chat the user can decide to see a graph of how their sentiment in their messages changed over the chat. By Henry Boisdequin (1 month and 1 week into coding)

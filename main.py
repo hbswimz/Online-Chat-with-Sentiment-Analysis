@@ -1,3 +1,5 @@
+from server_and_GUI import root
+
 # Client imports
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
@@ -57,6 +59,7 @@ if __name__ == '__main__':
     if running:
         SERVER.listen(5)
         print("[RUNNING] SERVER HAS STARTED")
+        root.mainloop()
         print("[WAITING] WAITING FOR MULTIPLE CONNECTIONS")
         ACCEPT_THREAD = Thread(target=accept_incoming_connections)
         ACCEPT_THREAD.start()

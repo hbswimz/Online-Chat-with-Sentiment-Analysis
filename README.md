@@ -9,3 +9,5 @@ To Chat:
 ```pip install 'module name you don't have'```
 
 Happy chatting!
+
+You can run the code on this Repl: [![Run on Repl.it](https://repl.it/badge/github/henryboisdequin/Online-Chat-with-Sentiment-Analysis)](https://repl.it/github/henryboisdequin/Online-Chat-with-Sentiment-Analysis)
